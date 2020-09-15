@@ -158,7 +158,7 @@ In this article, we will build an architecture, similar to the one shown above -
 
 ## 📌 Who is using this
 
-This repository aims to teach best practices & advanced file system techniques to new developers, Solution Architects & Ops Engineers in AWS. Based on that knowledge these Udemy [course #1][103], [course #2][102] helps you build complete architecture in AWS.
+This repository aims to teach API design best practices to new developers, Solution Architects & Ops Engineers in AWS. Based on that knowledge these Udemy [course #1][103], [course #2][102] helps you build complete architecture in AWS.
 
 ### 💡 Help/Suggestions or 🐛 Bugs
 
