@@ -4,7 +4,7 @@ Mystique Unicorn App is a building new microservice. The devs are looking for a 
 
 ## 🎯Solutions
 
-We can use Amazon API Gateway request validation feature to validate incoming requests. Using this feature you can validate request headers, query strings, path parameters and request body. This gives you the flexibility to choose the appropriate validation mechanism for your application.
+We can use Amazon API Gateway request validation[5] feature to validate incoming requests. Using this feature you can validate request headers, query strings, path parameters and request body. This gives you the flexibility to choose the appropriate validation mechanism for your application.
 
 ![Miztiik Automation Lambda Best Practices: Persistent Storage for functions](images/miztiik_api_request_validation_architecture_01.png)
 
@@ -182,6 +182,7 @@ Thank you for your interest in contributing to our project. Whether it is a bug 
 [2]: https://aws.amazon.com/blogs/compute/error-handling-patterns-in-amazon-api-gateway-and-aws-lambda/
 [3]: https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html
 [4]: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-apigateway-requestvalidator.html
+[5]: https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-method-request-validation.html
 [100]: https://www.udemy.com/course/aws-cloud-security/?referralCode=B7F1B6C78B45ADAF77A9
 [101]: https://www.udemy.com/course/aws-cloud-security-proactive-way/?referralCode=71DC542AD4481309A441
 [102]: https://www.udemy.com/course/aws-cloud-development-kit-from-beginner-to-professional/?referralCode=E15D7FB64E417C547579
