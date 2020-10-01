@@ -31,5 +31,7 @@ core.Tag.add(app, key="SkillShare",
              value=app.node.try_get_context("skill_profile"))
 core.Tag.add(app, key="AboutMe",
              value=app.node.try_get_context("about_me"))
+core.Tag.add(app, key="BuyMeACoffee",
+             value=app.node.try_get_context("ko_fi"))
 
 app.synth()
